@@ -1,0 +1,11 @@
+C:\Users\Code\source\repos\WindowsFormsFirst\WindowsFormsFirst\bin\Debug\WindowsFormsFirst.exe.config
+C:\Users\Code\source\repos\WindowsFormsFirst\WindowsFormsFirst\bin\Debug\WindowsFormsFirst.exe
+C:\Users\Code\source\repos\WindowsFormsFirst\WindowsFormsFirst\bin\Debug\WindowsFormsFirst.pdb
+C:\Users\Code\source\repos\WindowsFormsFirst\WindowsFormsFirst\obj\Debug\WindowsFormsFirst.csprojAssemblyReference.cache
+C:\Users\Code\source\repos\WindowsFormsFirst\WindowsFormsFirst\obj\Debug\WindowsFormsFirst.Properties.Resources.resources
+C:\Users\Code\source\repos\WindowsFormsFirst\WindowsFormsFirst\obj\Debug\WindowsFormsFirst.csproj.GenerateResource.cache
+C:\Users\Code\source\repos\WindowsFormsFirst\WindowsFormsFirst\obj\Debug\WindowsFormsFirst.csproj.CoreCompileInputs.cache
+C:\Users\Code\source\repos\WindowsFormsFirst\WindowsFormsFirst\obj\Debug\WindowsFormsFirst.exe
+C:\Users\Code\source\repos\WindowsFormsFirst\WindowsFormsFirst\obj\Debug\WindowsFormsFirst.pdb
+C:\Users\Code\source\repos\WindowsFormsFirst\WindowsFormsFirst\obj\Debug\WindowsFormsFirst.Form1.resources
+C:\Users\Code\source\repos\WindowsFormsFirst\WindowsFormsFirst\obj\Debug\WindowsFormsFirst.Login.resources
